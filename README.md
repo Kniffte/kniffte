@@ -2,7 +2,7 @@
 
 A passionate self-taught software developer and mechanical engineer
 
-[![kniffte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kniffte)](https://github.com/kniffte/github-readme-stats)
+[![kniffte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kniffte&theme=github_dark&show_icons=true)](https://github.com/kniffte/github-readme-stats)
 
 
 <!--
