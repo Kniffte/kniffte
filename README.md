@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi... I'm Seb
+
+A passionate self-taught software developer and mechanical engineer
+
+[![kniffte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kniffte)](https://github.com/kniffte/github-readme-stats)
+
 
 <!--
 **Kniffte/kniffte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
